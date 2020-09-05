@@ -1,2 +1,2 @@
-server:
-    port: 8002
+config:
+    info: "this is a github file,and name is config -test"
